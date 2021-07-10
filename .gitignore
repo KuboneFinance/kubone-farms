@@ -1,0 +1,7 @@
+secrets.ts
+artifacts/
+cache/
+node_modules/
+typechain/
+deploy/
+inst.txt
